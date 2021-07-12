@@ -204,6 +204,12 @@ height: 56px;
        justify-content: center;
     align-items: center;
    }
+   .blog-title{
+       font-size: 15px;
+   }
+   .blog-info p{
+       font-size: 12px;
+   }
    .course{
        margin-bottom: 20px;
    }
